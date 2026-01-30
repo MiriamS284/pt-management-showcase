@@ -2,7 +2,8 @@
 
 > Eine vollwertige **B2B SaaS-Lösung** für Personal Trainer zur Verwaltung von Kunden, Trainingsplänen, Ernährungsplänen und Geschäftsdokumenten.
 
-**Live Demo:** [karsten-gerth.de](https://karsten-gerth.de/)
+**Live Demo:** [karsten-gerth.de](https://karsten-gerth.de/)  
+**GitHub Portfolio:** [pt-management-showcase](https://github.com/MiriamS284/pt-management-showcase)
 
 ---
 
@@ -14,8 +15,8 @@ Diese Anwendung ist eine **End-to-End Managementsoftware** für Personal Trainer
 
 - 📱 Persönliches Dashboard mit Trainingsfortschritt
 - 🏋️ Zugriff auf individualisierte Trainingspläne
-- 🥗 Ernährungspläne und Mahlzeiten-Tracking
-- 🎯 Smart Goals mit Verfolgung und Feedback
+- 🥗 Ernährungspläne (Strategien, Einkaufslisten, Rezepte)
+- 🎯 Smart Goals mit Tracking und Feedback
 - 📊 Fortschrittsvisualisierung
 - 💬 Kommunikation mit Trainer
 
@@ -71,6 +72,248 @@ Diese Anwendung ist eine **End-to-End Managementsoftware** für Personal Trainer
 
 ---
 
+## 🎬 Live-Demo Features
+
+### **ADMIN PORTAL - Trainer Dashboard**
+
+#### **Dashboard Home - PT View 1**
+
+![Dashboard Home PT](./demo/dashboard_home_PT.jpg)
+
+Das Trainer-Dashboard mit KPI-Überblick:
+
+- Aktive Kunden
+- Anstehende Trainings
+- Recent Activities
+
+---
+
+#### **Dashboard Home - PT View 2**
+
+![Dashboard Home PT 2](./demo/dashboard_home_PT_2.jpg)
+
+Erweiterte Dashboard-Ansicht mit zusätzlichen Metriken und Schnellzugriffen
+
+---
+
+#### **Vorlagen-Sammlung (Collection)**
+
+![Collection](./demo/collection.jpg)
+
+Trainings- und Ernährungsplan-Vorlagen nach Kategorien
+
+---
+
+#### **Vorlagen-Sammlung - Erweiterte Ansicht**
+
+![Collection 2](./demo/collection_2.jpg)
+
+Detaillierte Übersicht aller verfügbaren Vorlagen mit Filtern
+
+---
+
+#### **Smart Library - Implementation**
+
+![Smart Library Implementation](./demo/smart_library_implementation.jpg)
+
+Intelligente Bibliothek mit SMART-Goals-Vorlagen und Best Practices
+
+---
+
+#### **Konsultationen Management**
+
+![Consultation PT](./demo/consultation_PT.jpg)
+
+Termin- und Konsultationsverwaltung für Trainer
+
+---
+
+#### **Neue Kunden Script/Onboarding**
+
+![New Customer Script](./demo/new_customer_script.jpg)
+
+Strukturiertes Onboarding-Script für neue Kunden
+
+---
+
+#### **Dokumente - Angebote/Rechnungen**
+
+![Document Offer](./demo/document_offer.jpg)
+
+PDF-Export von Rechnungen und Angeboten mit automatischer Formatierung
+
+---
+
+#### **Empfehlungen/Blog-Sektion**
+
+![Blog Section](./demo/blog_section.jpg)
+
+Blog-Verwaltung und Content-Marketing für Trainer
+
+---
+
+#### **Empfehlungen-Dashboard Sektion 1**
+
+![Recommendation Section](./demo/recommendation_section.jpg)
+
+Affiliate-Recommendations und Produkt-Empfehlungen für Kunden
+
+---
+
+#### **Empfehlungen-Dashboard Sektion 2**
+
+![Recommendation Section 2](./demo/recommendation_section_2.jpg)
+
+Tracking von Empfehlungen mit Performance-Metriken
+
+---
+
+### **PUBLIC PORTAL - Kunden-Erlebnis**
+
+#### **Home Page (Landing)**
+
+![Home Page](./demo/home.jpg)
+
+Die attraktive Startseite mit Überblick der Plattform
+
+---
+
+#### **Customer Login**
+
+![Customer Login](./demo/customer_login.jpg)
+
+Sichere Anmeldung für Kunden mit JWT-Authentifizierung
+
+---
+
+#### **Customer Portal - Mobile Home**
+
+![Customer Portal Home Mobile](./demo/portal_customer_home_mobile.jpg)
+
+Responsive Mobile-optimiert Dashboard für Kunden
+
+---
+
+#### **Trainings-Sektion**
+
+![Training Section](./demo/training_section.jpg)
+
+Übersicht aller Trainingspläne mit Status und Fortschritt
+
+---
+
+#### **Tägliches Training & Feedback**
+
+![Daily Training Feedback](./demo/day_training_feedback_customer.jpg)
+
+Detaillierte Trainingsansicht mit Übungsanleitungen und Feedback-Möglichkeiten
+
+---
+
+#### **Wöchentliches Training Tracking**
+
+![Weekly Training Tracking](./demo/wee_training_tracking.jpg)
+
+Wochenübersicht mit Trainingsfortschritt und Zielen
+
+---
+
+#### **Mobile Menu Navigation**
+
+![Mobile Menu](./demo/menu_customer_mobile.jpg)
+
+Intuitive Navigation durch die Customer App auf Smartphones
+
+---
+
+#### **Smart Goals Dashboard**
+
+![Smart Goal](./demo/smart_goal.jpg)
+
+SMART-Ziele mit strukturiertem Aufbau und Detailansicht
+
+---
+
+#### **Smart Goals Tracking**
+
+![Smart Goal Tracking](./demo/smart_goal_tracking.jpg)
+
+Progress-Tracking mit visueller Fortschrittsanzeige
+
+---
+
+#### **Smart Goals - Erweiterte Ansicht**
+
+![Smart Goal Details](./demo/smart_goal_2.jpg)
+
+Detaillierte Ziel-Übersicht mit Milestones und Feedback
+
+---
+
+#### **Ernährungsplan - Kunde**
+
+![Nutrition Customer](./demo/nutrition_customer.jpg)
+
+Persönalisierte Ernährungspläne mit Makros und Kalorienvorgaben
+
+---
+
+#### **Shopping List**
+
+![Shopping List Mobile](./demo/shopping_list_mobile.jpg)
+
+Intelligente Einkaufsliste basierend auf Ernährungsplan
+
+---
+
+#### **Rezepte - Sektion 1**
+
+![Recipe Section](./demo/recipe_section.jpg)
+
+Auswahl an empfohlenen Rezepten zum Plan
+
+---
+
+#### **Rezepte - Sektion 2**
+
+![Recipe Section 2](./demo/recipe_section_2.jpg)
+
+Detaillierte Rezept-Anleitungen mit Nährwerten
+
+---
+
+#### **Diary/Tagebuch Sektion**
+
+![Diary Section](./demo/diary_section.jpg)
+
+Tägliches Trainings- und Ernährungstagebuch
+
+---
+
+#### **Blog - Fitness Tipps**
+
+![Blog](./demo/blog.jpg)
+
+Informative Artikel zu Training, Ernährung und Motivation
+
+---
+
+#### **Empfehlungen & Tipps**
+
+![Recommendations](./demo/recommendations_tip_customer.jpg)
+
+Personalisierte Tipps und Empfehlungen vom Trainer
+
+---
+
+#### **Kontakt zum Trainer**
+
+![Contact](./demo/contact.jpg)
+
+Kommunikationskanal mit Trainer für Fragen und Support
+
+---
+
 ## 🏗️ Architektur
 
 ```
@@ -100,8 +343,7 @@ Diese Anwendung ist eine **End-to-End Managementsoftware** für Personal Trainer
 │  - Real-time Sync                                      │
 │                                                        │
 │  Services                                              │
-│  - Nodemailer (Email)                                 │
-│  - Resend (Email API)                                 │
+│  - Resend (Email API)                                  │
 │  - PDF-Rendering (@react-pdf/renderer)               │
 └────────────────────────────────────────────────────────┘
 ```
@@ -143,7 +385,7 @@ Diese Anwendung ist eine **End-to-End Managementsoftware** für Personal Trainer
 | **API**               | Next.js API Routes    | RESTful Endpoints            |
 | **Authentifizierung** | Jose, @node-rs/argon2 | JWT & Password Hashing       |
 | **Datenbank**         | Supabase (PostgreSQL) | Cloud Database mit Real-time |
-| **Email**             | Nodemailer, Resend    | Email-Versand                |
+| **Email**             | Resend                | Email-Versand                |
 | **Datenvalidierung**  | Zod                   | Schema Validation            |
 | **Security**          | isomorphic-dompurify  | XSS Protection               |
 
@@ -207,22 +449,6 @@ Diese Anwendung ist eine **End-to-End Managementsoftware** für Personal Trainer
 - Sicherer Login
 - Zugriff nur auf eigene Pläne/Ziele
 - Fortschritt-Loggen
-
----
-
-## 📊 Screenshots & Demo-Flow
-
-> [Screenshots/GIFs würden hier eingefügt]
-
-### **Trainer Workflow Beispiel:**
-
-1. Neuer Kunde kommt rein → Profil erstellen
-2. Trainer wählt aus Template-Bibliothek → Trainingsplan
-3. Plan wird personalisiert (Übungen angepasst)
-4. Plan wird dem Kunden zugewiesen
-5. Kunde sieht Plan auf seinem Dashboard
-6. Nach 4 Wochen: Rechnung erstellen & senden
-7. Plan-Feedback: Neuer Plan aus Template (mit Erfahrung)
 
 ---
 
@@ -345,15 +571,15 @@ app/
 - Supabase für Real-time Datenbank
 - Middleware für Authentication
 - PDF-Generation Client & Server-side
-- Email-Integration (Nodemailer + Resend)
+- Email-Integration (Resend)
 - Responsive Design (Mobile-first)
 
 ---
 
 ## 📞 Kontakt & Portfolio
 
-**GitHub**: [(https://github.com/MiriamS284/MiriamS284)]
-**LinkedIn**: [(https://www.linkedin.com/in/miriam-sparbrod/)]
+**GitHub**: [MiriamS284/pt-management-showcase](https://github.com/MiriamS284/pt-management-showcase)
+**LinkedIn**: [miriam-sparbrod](https://www.linkedin.com/in/miriam-sparbrod/)
 
 ---
 
@@ -363,6 +589,7 @@ Dieses Projekt ist proprietär und wird nicht open-sourced. Der Code wird nur zu
 
 ---
 
-**Erstellt von**: Miriam | Full-Stack MERN Developer
-**Technologie**: Next.js, React, Supabase, Tailwind CSS
-**Typ**: SaaS / Business Management Software
+**Erstellt von**: Miriam | Full-Stack MERN Developer  
+**Technologie**: Next.js 15, React 19, Supabase, Tailwind CSS, Resend  
+**Typ**: SaaS / Business Management Software  
+**Status**: Production-Ready ✨
